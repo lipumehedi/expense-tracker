@@ -1,0 +1,26 @@
+{
+  "next_id": 5,
+  "expenses": [
+    {
+      "id": 1,
+      "date": "2026-10-18",
+      "amount": 850,
+      "category": "food",
+      "note": "Lunch at Sukiya"
+    },
+    {
+      "id": 2,
+      "date": "2026-10-18",
+      "amount": 230,
+      "category": "transport",
+      "note": "Train"
+    },
+    {
+      "id": 4,
+      "date": "2026-10-05",
+      "amount": 4800,
+      "category": "shopping",
+      "note": "Uniqlo socks"
+    }
+  ]
+}
